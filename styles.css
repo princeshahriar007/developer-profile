@@ -127,7 +127,6 @@ p {
   padding-bottom: 0;
 }
 .round {
-  border-radius: 200px;
 }
 
 /* Specific Section */
@@ -140,8 +139,9 @@ p {
   padding-bottom: 50px;
 }
 
-.testimonial-avatar {
+#testimonial img {
   width: 350px;
+  border-radius: 200px;
 }
 
 footer {
