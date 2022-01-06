@@ -1,0 +1,119 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.card-padding {
+  padding: 20px 40px;
+}
+
+.row {
+  display: flex;
+}
+
+.col-half {
+  width: 50%;
+  padding-left: 5%;
+}
+
+.col-one-third {
+  width: 33.33%;
+}
+
+.bg-teal {
+  background-color: #c1ffd7;
+}
+
+.bg-coral-blue {
+  background-color: #7dedff;
+}
+
+.bg-cream {
+  background-color: #fff5b7;
+}
+
+.round-corner {
+  border-radius: 15px;
+  margin: 15px;
+}
+
+.va-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.img {
+  width: 80%;
+}
+
+.card-image {
+  width: 250px;
+}
+
+.heading-font {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.heading-1 {
+  font-size: 50px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.heading-2 {
+  font-size: 30px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.blue-color {
+  color: #1c6dd0;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.p-margin-vertical {
+  margin: 40px 0;
+}
+
+.btn {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 24px;
+  padding: 20px 40px;
+  text-decoration: none;
+  background: rgb(17, 60, 252);
+  background: linear-gradient(
+    45deg,
+    rgba(17, 60, 252, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+#expertise {
+  margin-top: 50px;
+}
+
+#testimonial {
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+
+footer {
+  padding: 40px;
+  background-color: bisque;
+}
